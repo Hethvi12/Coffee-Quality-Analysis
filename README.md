@@ -1,2 +1,0 @@
-# Coffee Quality Analysis
- 
